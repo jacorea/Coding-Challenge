@@ -8,6 +8,15 @@ img {
     border-radius: 50%;
 }
 
+a {
+    color: red;
+    text-decoration: none;
+  }
+
+  a:hover {
+      color: salmon;
+  }
+
 #todays-challenge {
     color: rgb(170,96,83);
     font-size: 52px;

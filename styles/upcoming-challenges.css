@@ -1,23 +1,35 @@
-body {
-    background-color: rgb(233,215,207);
-    text-align: center;
-    color: rgb(83,75,75);
-    margin: 50px;
-}
-
 h1 {
-    font-family: "Oswald", sans-serif;
-}
-
-p {
-    font-family: "Fira Sans", sans-serif;
+    font-size: 38px;
+    color: rgb(71,62,62);
+    margin: 30px 0;
 }
 
 a {
-    color: red;
+    padding: 12px 20px;
+    background-color: rgb(167,1,78);
     text-decoration: none;
-  }
+    border: 1px solid rgb(167,1,78);
+    border-radius: 4px;
+    font-size: 24px;
+    color: white;
+}
 
-  a:hover {
-      color: salmon;
-  }
+a:hover {
+    background-color: rgb(180,12,90);
+    border: 1px solid rgb(180,12,90);
+    text-decoration: none;
+}
+
+ol {
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+}
+
+li {
+    padding: 15px;
+    margin: 32px;
+    background-color: rgb(223,136,124);
+    border-radius: 6px;
+}
