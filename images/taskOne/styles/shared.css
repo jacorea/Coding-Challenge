@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-color: rgb(244,229,255);
+    color: rgb(83, 75, 75);
+    margin: 50px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif ;
+    color: rgb(74,37,186);
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    text-align: left;
+    width: 800px;
+    height: auto;
+    margin: 25px auto 25px auto;
+    background-color: rgb(113,59,214);
+    padding: 25px;
+}
+
+ul {
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    margin: 36px auto 0 auto;
+    padding: 0;
+}
+
+.section {
+    color: rgb(230,200,255);
+}
+
+
+
+li {
+    margin: 0;
+    padding: 0;
+}
